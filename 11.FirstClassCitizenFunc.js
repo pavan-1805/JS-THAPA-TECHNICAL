@@ -15,13 +15,13 @@ funct1()
 
 
 //2. Sending function as a parameter
-const funcParam = () => {
+const funcAsArgument = () => {
     return 'hi'
 }
 const funct2 = (fun,val) => {
     console.log('Sending function as a parameter:'+ ' '+fun()+' '+val);
 }
-funct2(funcParam,'pavan')
+funct2(funcAsArgument,'pavan')
 
 
 //3. Returning a function
