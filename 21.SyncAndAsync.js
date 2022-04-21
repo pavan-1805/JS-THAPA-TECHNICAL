@@ -1,0 +1,6 @@
+console.log(`SYNCHRONOUS = ONE AFTER ONE = IT WILL WAIT`);
+console.log(`ASYNCHRONOUS = PARALLELLY = IT WONT WAIT`);
+
+
+
+

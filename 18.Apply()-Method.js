@@ -1,6 +1,6 @@
 console.log(`apply( ) method`);
 console.log(`apply() is almost similar to call() method`);
-console.log(`thr difference is :
+console.log(`the difference is :
 the call() takes arguments separately
 the apply() takes arguments as an array`);
 
